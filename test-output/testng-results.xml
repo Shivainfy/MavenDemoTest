@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25486" started-at="2020-07-14T08:26:45Z" finished-at="2020-07-14T08:27:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25486" started-at="2020-07-14T08:26:45Z" finished-at="2020-07-14T08:27:10Z">
+      <class name="MavenDemoTest.MavenDemoTest.testclass">
+        <test-method status="PASS" signature="displyy()[pri:0, instance:MavenDemoTest.MavenDemoTest.testclass@167c1fc]" name="displyy" duration-ms="25437" started-at="2020-07-14T08:26:45Z" finished-at="2020-07-14T08:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displyy -->
+        <test-method status="PASS" signature="print()[pri:0, instance:MavenDemoTest.MavenDemoTest.testclass@167c1fc]" name="print" duration-ms="5" started-at="2020-07-14T08:27:10Z" finished-at="2020-07-14T08:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- MavenDemoTest.MavenDemoTest.testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
