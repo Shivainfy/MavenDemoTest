@@ -1,5 +1,5 @@
 package MavenDemoTest.MavenDemoTest;
-
+//no comments
 public class thirdClass {
 	
 	public void third()
